@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Usuarios\\Videojuegos\\C#Visual\\Ejercicios\\Ej3\\Ejercicio3\\Ejercicio3\\Ejercicio3.csproj",
+      "projectUniqueName": "D:\\Usuarios\\Videojuegos\\C#Visual\\EjerciciosBasicosCSharp\\Ejercicio3\\Ejercicio3\\Ejercicio3.csproj",
       "projectName": "Ejercicio3",
-      "projectPath": "D:\\Usuarios\\Videojuegos\\C#Visual\\Ejercicios\\Ej3\\Ejercicio3\\Ejercicio3\\Ejercicio3.csproj",
+      "projectPath": "D:\\Usuarios\\Videojuegos\\C#Visual\\EjerciciosBasicosCSharp\\Ejercicio3\\Ejercicio3\\Ejercicio3.csproj",
       "packagesPath": "C:\\Users\\Videojuegos\\.nuget\\packages\\",
-      "outputPath": "D:\\Usuarios\\Videojuegos\\C#Visual\\Ejercicios\\Ej3\\Ejercicio3\\Ejercicio3\\obj\\",
+      "outputPath": "D:\\Usuarios\\Videojuegos\\C#Visual\\EjerciciosBasicosCSharp\\Ejercicio3\\Ejercicio3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Usuarios\\Videojuegos\\C#Visual\\Ejercicios\\Ejercicio4\\Ejercicio4\\Ejercicio4.csproj": {}
+    "D:\\Usuarios\\Videojuegos\\C#Visual\\EjerciciosBasicosCSharp\\Ejercicio4\\Ejercicio4\\Ejercicio4.csproj": {}
   },
   "projects": {
-    "D:\\Usuarios\\Videojuegos\\C#Visual\\Ejercicios\\Ejercicio4\\Ejercicio4\\Ejercicio4.csproj": {
+    "D:\\Usuarios\\Videojuegos\\C#Visual\\EjerciciosBasicosCSharp\\Ejercicio4\\Ejercicio4\\Ejercicio4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Usuarios\\Videojuegos\\C#Visual\\Ejercicios\\Ejercicio4\\Ejercicio4\\Ejercicio4.csproj",
+        "projectUniqueName": "D:\\Usuarios\\Videojuegos\\C#Visual\\EjerciciosBasicosCSharp\\Ejercicio4\\Ejercicio4\\Ejercicio4.csproj",
         "projectName": "Ejercicio4",
-        "projectPath": "D:\\Usuarios\\Videojuegos\\C#Visual\\Ejercicios\\Ejercicio4\\Ejercicio4\\Ejercicio4.csproj",
+        "projectPath": "D:\\Usuarios\\Videojuegos\\C#Visual\\EjerciciosBasicosCSharp\\Ejercicio4\\Ejercicio4\\Ejercicio4.csproj",
         "packagesPath": "C:\\Users\\Videojuegos\\.nuget\\packages\\",
-        "outputPath": "D:\\Usuarios\\Videojuegos\\C#Visual\\Ejercicios\\Ejercicio4\\Ejercicio4\\obj\\",
+        "outputPath": "D:\\Usuarios\\Videojuegos\\C#Visual\\EjerciciosBasicosCSharp\\Ejercicio4\\Ejercicio4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

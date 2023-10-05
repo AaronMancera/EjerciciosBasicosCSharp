@@ -14,7 +14,7 @@ namespace Ejercicio9
         {
             string[] diasSemanas = { "Lunes", "Martes", "Miercoles", "Jueves", "Viernes", "Sabado", "Domingo"};
             var random = new Random();
-            Console.WriteLine("El dia de la semana es: "+diasSemanas[random.Next(0,6)]);
+            Console.WriteLine("El dia de la semana es: "+diasSemanas[random.Next(diasSemanas.Length)]);
         }
     }
 }
