@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Usuarios\\Videojuegos\\C#Visual\\Ejercicios\\Ejercicio5\\Ejercicio5\\Ejercicio5.csproj",
+      "projectUniqueName": "D:\\Usuarios\\Videojuegos\\C#Visual\\EjerciciosBasicosCSharp\\Ejercicio5\\Ejercicio5\\Ejercicio5.csproj",
       "projectName": "Ejercicio5",
-      "projectPath": "D:\\Usuarios\\Videojuegos\\C#Visual\\Ejercicios\\Ejercicio5\\Ejercicio5\\Ejercicio5.csproj",
+      "projectPath": "D:\\Usuarios\\Videojuegos\\C#Visual\\EjerciciosBasicosCSharp\\Ejercicio5\\Ejercicio5\\Ejercicio5.csproj",
       "packagesPath": "C:\\Users\\Videojuegos\\.nuget\\packages\\",
-      "outputPath": "D:\\Usuarios\\Videojuegos\\C#Visual\\Ejercicios\\Ejercicio5\\Ejercicio5\\obj\\",
+      "outputPath": "D:\\Usuarios\\Videojuegos\\C#Visual\\EjerciciosBasicosCSharp\\Ejercicio5\\Ejercicio5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
