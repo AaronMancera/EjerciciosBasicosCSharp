@@ -1,0 +1,13 @@
+D:\Usuarios\Videojuegos\C#Visual\Ejercicios\Ejercicio7\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.exe
+D:\Usuarios\Videojuegos\C#Visual\Ejercicios\Ejercicio7\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.deps.json
+D:\Usuarios\Videojuegos\C#Visual\Ejercicios\Ejercicio7\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.runtimeconfig.json
+D:\Usuarios\Videojuegos\C#Visual\Ejercicios\Ejercicio7\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.runtimeconfig.dev.json
+D:\Usuarios\Videojuegos\C#Visual\Ejercicios\Ejercicio7\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.dll
+D:\Usuarios\Videojuegos\C#Visual\Ejercicios\Ejercicio7\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.pdb
+D:\Usuarios\Videojuegos\C#Visual\Ejercicios\Ejercicio7\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Videojuegos\C#Visual\Ejercicios\Ejercicio7\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.AssemblyInfoInputs.cache
+D:\Usuarios\Videojuegos\C#Visual\Ejercicios\Ejercicio7\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.AssemblyInfo.cs
+D:\Usuarios\Videojuegos\C#Visual\Ejercicios\Ejercicio7\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.csproj.CoreCompileInputs.cache
+D:\Usuarios\Videojuegos\C#Visual\Ejercicios\Ejercicio7\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.dll
+D:\Usuarios\Videojuegos\C#Visual\Ejercicios\Ejercicio7\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.pdb
+D:\Usuarios\Videojuegos\C#Visual\Ejercicios\Ejercicio7\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.genruntimeconfig.cache
