@@ -1,0 +1,14 @@
+D:\Usuarios\Videojuegos\C#Visual\Ejercicios\Ejercicio5\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.exe
+D:\Usuarios\Videojuegos\C#Visual\Ejercicios\Ejercicio5\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.deps.json
+D:\Usuarios\Videojuegos\C#Visual\Ejercicios\Ejercicio5\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.runtimeconfig.json
+D:\Usuarios\Videojuegos\C#Visual\Ejercicios\Ejercicio5\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.runtimeconfig.dev.json
+D:\Usuarios\Videojuegos\C#Visual\Ejercicios\Ejercicio5\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.dll
+D:\Usuarios\Videojuegos\C#Visual\Ejercicios\Ejercicio5\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.pdb
+D:\Usuarios\Videojuegos\C#Visual\Ejercicios\Ejercicio5\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.csproj.AssemblyReference.cache
+D:\Usuarios\Videojuegos\C#Visual\Ejercicios\Ejercicio5\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Videojuegos\C#Visual\Ejercicios\Ejercicio5\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.AssemblyInfoInputs.cache
+D:\Usuarios\Videojuegos\C#Visual\Ejercicios\Ejercicio5\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.AssemblyInfo.cs
+D:\Usuarios\Videojuegos\C#Visual\Ejercicios\Ejercicio5\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.csproj.CoreCompileInputs.cache
+D:\Usuarios\Videojuegos\C#Visual\Ejercicios\Ejercicio5\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.dll
+D:\Usuarios\Videojuegos\C#Visual\Ejercicios\Ejercicio5\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.pdb
+D:\Usuarios\Videojuegos\C#Visual\Ejercicios\Ejercicio5\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.genruntimeconfig.cache
