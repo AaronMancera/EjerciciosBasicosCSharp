@@ -13,30 +13,23 @@ namespace Ejercicio8
         static void Main(string[] args)
         {
             var random = new Random();
-            int resultado=0;
-            while (resultado == 0)
-            {
-                int numAleatorio1 = random.Next(1, 1000);
-                int numAleatorio2 = random.Next(1, 1000);
-                if(numAleatorio1%2==0 && numAleatorio2 % 2 == 0)
-                {
-                    resultado = Math.Min(numAleatorio1, numAleatorio2);
-                    //Console.WriteLine("numAleatorio1: "+numAleatorio1+" - numAleatorio2: "+ numAleatorio2);
 
-                }
-                else if (numAleatorio1 % 2 == 0)
+            int numAleatorio1 = random.Next(1, 1000);
+            int numAleatorio2 = random.Next(1, 1000);
+            int final = Math.Max(numAleatorio1, numAleatorio2);
+            int inicio = Math.Min(numAleatorio1, numAleatorio2);
+            Console.WriteLine(inicio);
+            Console.WriteLine(final);
+            Console.ReadLine();
+            for (int i = inicio; i <= final; i++)
+            {
+                if (i % 2 == 0)
                 {
-                    resultado = numAleatorio1;
-                    //Console.WriteLine("numAleatorio1: " + numAleatorio1);
-                }
-                else if(numAleatorio2%2 == 0)
-                {
-                    resultado = numAleatorio2;
-                    //Console.WriteLine("numAleatorio2: " + numAleatorio2);
+                    Console.WriteLine(i);
                 }
 
             }
-            Console.WriteLine(resultado);
+
         }
     }
 }

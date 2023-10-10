@@ -1,0 +1,14 @@
+D:\Usuarios\Videojuegos\C#Visual\EjerciciosBasicosCSharp\Ejercicio13\Ejercicio13\bin\Debug\netcoreapp3.1\Ejercicio13.exe
+D:\Usuarios\Videojuegos\C#Visual\EjerciciosBasicosCSharp\Ejercicio13\Ejercicio13\bin\Debug\netcoreapp3.1\Ejercicio13.deps.json
+D:\Usuarios\Videojuegos\C#Visual\EjerciciosBasicosCSharp\Ejercicio13\Ejercicio13\bin\Debug\netcoreapp3.1\Ejercicio13.runtimeconfig.json
+D:\Usuarios\Videojuegos\C#Visual\EjerciciosBasicosCSharp\Ejercicio13\Ejercicio13\bin\Debug\netcoreapp3.1\Ejercicio13.runtimeconfig.dev.json
+D:\Usuarios\Videojuegos\C#Visual\EjerciciosBasicosCSharp\Ejercicio13\Ejercicio13\bin\Debug\netcoreapp3.1\Ejercicio13.dll
+D:\Usuarios\Videojuegos\C#Visual\EjerciciosBasicosCSharp\Ejercicio13\Ejercicio13\bin\Debug\netcoreapp3.1\Ejercicio13.pdb
+D:\Usuarios\Videojuegos\C#Visual\EjerciciosBasicosCSharp\Ejercicio13\Ejercicio13\obj\Debug\netcoreapp3.1\Ejercicio13.csproj.AssemblyReference.cache
+D:\Usuarios\Videojuegos\C#Visual\EjerciciosBasicosCSharp\Ejercicio13\Ejercicio13\obj\Debug\netcoreapp3.1\Ejercicio13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Videojuegos\C#Visual\EjerciciosBasicosCSharp\Ejercicio13\Ejercicio13\obj\Debug\netcoreapp3.1\Ejercicio13.AssemblyInfoInputs.cache
+D:\Usuarios\Videojuegos\C#Visual\EjerciciosBasicosCSharp\Ejercicio13\Ejercicio13\obj\Debug\netcoreapp3.1\Ejercicio13.AssemblyInfo.cs
+D:\Usuarios\Videojuegos\C#Visual\EjerciciosBasicosCSharp\Ejercicio13\Ejercicio13\obj\Debug\netcoreapp3.1\Ejercicio13.csproj.CoreCompileInputs.cache
+D:\Usuarios\Videojuegos\C#Visual\EjerciciosBasicosCSharp\Ejercicio13\Ejercicio13\obj\Debug\netcoreapp3.1\Ejercicio13.dll
+D:\Usuarios\Videojuegos\C#Visual\EjerciciosBasicosCSharp\Ejercicio13\Ejercicio13\obj\Debug\netcoreapp3.1\Ejercicio13.pdb
+D:\Usuarios\Videojuegos\C#Visual\EjerciciosBasicosCSharp\Ejercicio13\Ejercicio13\obj\Debug\netcoreapp3.1\Ejercicio13.genruntimeconfig.cache
