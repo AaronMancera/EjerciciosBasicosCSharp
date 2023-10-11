@@ -1,0 +1,13 @@
+D:\Usuarios\Videojuegos\C#Visual\EjerciciosBasicosCSharp\Ejercicio19\Ejercicio19\bin\Debug\netcoreapp3.1\Ejercicio19.exe
+D:\Usuarios\Videojuegos\C#Visual\EjerciciosBasicosCSharp\Ejercicio19\Ejercicio19\bin\Debug\netcoreapp3.1\Ejercicio19.deps.json
+D:\Usuarios\Videojuegos\C#Visual\EjerciciosBasicosCSharp\Ejercicio19\Ejercicio19\bin\Debug\netcoreapp3.1\Ejercicio19.runtimeconfig.json
+D:\Usuarios\Videojuegos\C#Visual\EjerciciosBasicosCSharp\Ejercicio19\Ejercicio19\bin\Debug\netcoreapp3.1\Ejercicio19.runtimeconfig.dev.json
+D:\Usuarios\Videojuegos\C#Visual\EjerciciosBasicosCSharp\Ejercicio19\Ejercicio19\bin\Debug\netcoreapp3.1\Ejercicio19.dll
+D:\Usuarios\Videojuegos\C#Visual\EjerciciosBasicosCSharp\Ejercicio19\Ejercicio19\bin\Debug\netcoreapp3.1\Ejercicio19.pdb
+D:\Usuarios\Videojuegos\C#Visual\EjerciciosBasicosCSharp\Ejercicio19\Ejercicio19\obj\Debug\netcoreapp3.1\Ejercicio19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Videojuegos\C#Visual\EjerciciosBasicosCSharp\Ejercicio19\Ejercicio19\obj\Debug\netcoreapp3.1\Ejercicio19.AssemblyInfoInputs.cache
+D:\Usuarios\Videojuegos\C#Visual\EjerciciosBasicosCSharp\Ejercicio19\Ejercicio19\obj\Debug\netcoreapp3.1\Ejercicio19.AssemblyInfo.cs
+D:\Usuarios\Videojuegos\C#Visual\EjerciciosBasicosCSharp\Ejercicio19\Ejercicio19\obj\Debug\netcoreapp3.1\Ejercicio19.csproj.CoreCompileInputs.cache
+D:\Usuarios\Videojuegos\C#Visual\EjerciciosBasicosCSharp\Ejercicio19\Ejercicio19\obj\Debug\netcoreapp3.1\Ejercicio19.dll
+D:\Usuarios\Videojuegos\C#Visual\EjerciciosBasicosCSharp\Ejercicio19\Ejercicio19\obj\Debug\netcoreapp3.1\Ejercicio19.pdb
+D:\Usuarios\Videojuegos\C#Visual\EjerciciosBasicosCSharp\Ejercicio19\Ejercicio19\obj\Debug\netcoreapp3.1\Ejercicio19.genruntimeconfig.cache
